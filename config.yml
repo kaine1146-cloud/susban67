@@ -1,0 +1,3 @@
+# Your Minecraft username (or UUID). ONLY this account can use /sus and /ban.
+# The server console can always use them. Leave as-is and nobody in-game can.
+owner: "YourMinecraftName"
